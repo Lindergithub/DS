@@ -14,9 +14,9 @@
 ### [VIDEO]
 ### PPT
 > + [week1](https://docs.google.com/presentation/d/e/2PACX-1vSoZaHMPw2fKtXOAC3GyKJgpRlZn2a_adjEIOmmTTKR5vBXZlzoZ0i2y8c2yZLYgRImehD1HIHJLaV6/pub?start=false&loop=false&delayms=3000&slide=id.p)
-> + [week2](https://docs.google.com/presentation/d/e/2PACX-1vT7p0-PcgEIj2Ac7NuCdqHGNXNnwadoAy7CWhhNTJWm5OzUdQEekxSEb9_ZTpo2ubNgfETSUYX_tuC5/pub?start=false&loop=false&delayms=3000&slide=id.g2087c65195e_0_183)
-> + [week3]
-> + [week4]
+> + week2放假一次
+> + [week3](https://docs.google.com/presentation/d/e/2PACX-1vT7p0-PcgEIj2Ac7NuCdqHGNXNnwadoAy7CWhhNTJWm5OzUdQEekxSEb9_ZTpo2ubNgfETSUYX_tuC5/pub?start=false&loop=false&delayms=3000&slide=id.g2087c65195e_0_183)
+> + [week4](https://docs.google.com/presentation/d/e/2PACX-1vSqNXr_J_rQ6m03T73WeCg7IVhrr2pYyNg_6CJU32lTYSi1_8I5AjCX3z_Gdx5VkiCwxCKZnEZ6jhEy/pub?start=false&loop=false&delayms=3000&slide=id.p)
 > + [week5]
 > + [week6]
 > + [week7]
@@ -25,7 +25,7 @@
 
 
 ## 作業連結區
-+ [HW1](https://www.youtube.com/watch?v=wIfLEZjFFNM)
++ [HW1]()
 + [HW2]
 + [HW3]
 + [HW4]
