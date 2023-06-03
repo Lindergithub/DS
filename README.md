@@ -35,7 +35,7 @@
 > [Video](https://www.youtube.com/watch?v=PM0FIWJKW6w)
 ## 作業連結區
 + [HW1](https://youtu.be/JoPQq0bhYpM)
-+ [HW2]
++ [HW2](https://youtu.be/jaXVX75Faco)
 + [HW3]
 + [HW4]
 + [HW5]
