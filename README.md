@@ -36,7 +36,7 @@
 ## 作業連結區
 + [HW1](https://youtu.be/JoPQq0bhYpM)
 + [HW2](https://youtu.be/jaXVX75Faco)
-+ [HW3]
++ [HW3](https://youtu.be/qP9DJB8iVVg)
 + [HW4]
 + [HW5]
 ## 專題連結區
