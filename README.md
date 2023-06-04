@@ -39,6 +39,7 @@
 + [HW3](https://youtu.be/qP9DJB8iVVg)
 + HW4 [DFS](https://youtu.be/454k0qG-iYY) & [BFS](https://youtu.be/hLt2JN9iWDQ)
 + HW5 [Stack](https://youtu.be/Xkt73i_PjVA) & [Heap](https://youtu.be/7gZEC3e8jw8)
++ HW1-5 [PDF](https://drive.google.com/file/d/1AUhiKzoKW7DSEGP1H-AyR6V4fwUeL3vY/view?usp=drive_link)
 ## 專題連結區
 + [ppt]
 + [vedio]
