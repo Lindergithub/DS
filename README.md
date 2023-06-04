@@ -41,5 +41,5 @@
 + HW5 [Stack](https://youtu.be/Xkt73i_PjVA) & [Heap](https://youtu.be/7gZEC3e8jw8)
 + HW1-5 [PDF](https://drive.google.com/file/d/1AUhiKzoKW7DSEGP1H-AyR6V4fwUeL3vY/view?usp=drive_link)
 ## 專題連結區
-+ [ppt]
-+ [vedio]
++ [ppt](https://drive.google.com/file/d/1X9R45VXEWTjdGkT8TthxQrm4X2pvebGM/view?usp=sharing)
++ [vedio](https://youtu.be/uI4oFfQ7kig)
