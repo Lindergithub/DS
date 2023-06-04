@@ -37,8 +37,8 @@
 + [HW1](https://youtu.be/JoPQq0bhYpM)
 + [HW2](https://youtu.be/jaXVX75Faco)
 + [HW3](https://youtu.be/qP9DJB8iVVg)
-+ HW4 [DFS](https://youtu.be/454k0qG-iYY)&[BFS](https://youtu.be/hLt2JN9iWDQ)
-+ HW5[Stack](https://youtu.be/Xkt73i_PjVA)&[Heap]
++ HW4 [DFS](https://youtu.be/454k0qG-iYY) & [BFS](https://youtu.be/hLt2JN9iWDQ)
++ HW5 [Stack](https://youtu.be/Xkt73i_PjVA) & [Heap](https://youtu.be/7gZEC3e8jw8)
 ## 專題連結區
 + [ppt]
 + [vedio]
